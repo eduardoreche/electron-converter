@@ -1,7 +1,7 @@
 {
-  "name": "timer",
+  "name": "converter",
   "version": "1.0.0",
-  "description": "Electron timer app",
+  "description": "Electron video converter app",
   "main": "main.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -9,7 +9,7 @@
   },
   "author": "Rallycoding",
   "devDependencies": {
-    "electron": "~1.6.2"
+    "electron": "^1.7.9"
   },
   "dependencies": {
     "babel-core": "^6.24.0",
